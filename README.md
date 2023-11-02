@@ -1,3 +1,3 @@
 # Day5
-JSON Mrthod 
+JSON Method 
 ES5 vs ES6 
